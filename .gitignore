@@ -6,3 +6,13 @@
 Prj-Linux/lpr/TEST_*
 Prj-Linux/*build*/
 *.pyc
+
+# Vim
+tags
+*.vim
+
+# Big data files
+*.avi
+
+# Log files
+*log*.txt
